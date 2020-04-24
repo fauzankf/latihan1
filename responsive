@@ -1,0 +1,22 @@
+@media all and (max-width: 670px) {
+  .header-right {
+    display:none;
+  }
+
+  .menu-icon {
+    display:block;
+  }
+.card {
+        width: 60%;
+    }
+
+    .footer-left {
+        width: 100%;
+        margin-top: -10px;
+    }
+
+    .footer-right {
+        width: 100%;
+        padding: 10px 0;    
+    }
+  }
